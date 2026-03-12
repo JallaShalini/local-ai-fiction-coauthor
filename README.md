@@ -48,6 +48,7 @@ Generated Story
 
 # Project Structure
 
+```
 local-ai-fiction-coauthor/
 │
 ├── docker-compose.yml
@@ -99,5 +100,4 @@ local-ai-fiction-coauthor/
 │   └── test_generate_endpoint.py
 │
 └── .gitignore
-'''''
--------
+```
