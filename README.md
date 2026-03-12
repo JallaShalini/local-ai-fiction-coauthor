@@ -15,7 +15,7 @@ The system stores story lore in a vector database and retrieves relevant context
 ---
 
 # Project Architecture
-
+'''''
 User Prompt  
 ↓  
 FastAPI API  
@@ -99,3 +99,5 @@ local-ai-fiction-coauthor/
 │   └── test_generate_endpoint.py
 │
 └── .gitignore
+'''''
+-------
